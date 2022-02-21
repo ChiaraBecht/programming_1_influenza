@@ -79,8 +79,9 @@ To open the dashboard run the [Final_assignment_Data_Analysis.ipynb](analysis/Fi
 | [jupyter](https://jupyter.org/)                      | `1.0.0`  |
 | [statsmodel](https://www.statsmodels.org/)           | `0.12.2` |
 | [pathlib](https://pathlib.readthedocs.io/en/pep428/) | `1.0.1`  |
-| [yaml](https://pyyaml.org/)                          | `5.4.1`  |
-| [colorcet](https://colorcet.holoviz.org/)            | `2.0.6 ` |
+| [os](https://docs.python.org/3/library/os.html)      | `3.10.2` |
+| [re](https://docs.python.org/3/library/re.html)      | `3.10.2` |
+| [param](http://param.holoviz.org/)                   | `1.12.0` |
 
 
 
