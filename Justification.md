@@ -49,8 +49,13 @@ Preprocessing: linear interpolation not best practice?, slope comparison not bes
 
 ## References
 [1] https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal) 
+
 [2] https://www.statnews.com/2021/06/02/pandemic-upside-flu-virus-became-less-diverse-simplifying-task-of-making-flu-shots/ 
+
 [3] Koutsakos, M et al.: Influenza lineage extinction during the COVID-19 pandemic?, Nature Reviews Microbiology, 2021, https://www.nature.com/articles/s41579-021-00642-4#citeas 
+
 [4] https://survstat.rki.de/Content/Query/Create.aspx
+
 [5] https://www.statistik-bw.de/SRDB/?E=GS
+
 [6] http://opendatalab.de/projects/geojson-utilities/
