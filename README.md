@@ -71,7 +71,7 @@ To open the dashboard run the [Final_assignment_Data_Analysis.ipynb](analysis/Fi
 | [numpy](https://numpy.org/)                          | `1.21.2` |
 | [pandas](https://pandas.pydata.org/)                 | `1.3.3`  |
 | [bokeh](https://bokeh.org/)                          | `2.3.3`  |
-| [folium](https://python-visualization.github.io/folium/) | 0.12.1.post1` |
+| [folium](https://python-visualization.github.io/folium/) | `0.12.1.post1` |
 | [panel](https://panel.holoviz.org/)                  | `0.12.1` |
 | [holoviews](https://holoviews.org/)                  | `1.14.6` |
 | [hvplot](https://hvplot.holoviz.org/)                | `0.7.3`  |
