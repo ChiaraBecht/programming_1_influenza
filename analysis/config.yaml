@@ -1,1 +1,2 @@
 datadir: "../data/"
+geodir: "../data/geodata/landkreise_simplify200.geojson"
