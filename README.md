@@ -13,15 +13,15 @@ Influenza case number data was obtained from the Robert Koch Institute using the
 
 The district related data (area size, population size, etc.) was obtained from the statistische Landesamt Baden - Württemberg using their Query tool (https://www.statistik-bw.de/SRDB/?E=GS). For the same reasons as for the influenza data, the used data can be found [here](/data/Stat_Landesamt_BW/). 
 
-Geographical data on district level was required to produce a geographical representation. The required geojson file was obtained form (http://opendatalab.de/projects/geojson-utilities/). The data can be found [here](/data/geodata)
+Geographical data on district level was required to produce a geographical representation. The required geojson file was obtained form (http://opendatalab.de/projects/geojson-utilities/). The data can be found [here](/data/geodata).
 
-A merged dataset was produced with additional columns, which can be found [here](/data/)
+A merged dataset was produced with additional columns, which can be found [here](/data/).
 
 
 ### Data description
-A variable description for the influenza data obtained from the RKI can be found [here](data/RKI/Documentation/RKI_codebook.md)
-A variable description for the area and population data obtained from statistisches Landeswamt can be found [here](/data/Stat_Landesamt_BW/Documentation/Stat_Landesamt_BW_codebook.md)
-The variables of the raw merged dataset are described [here](/data/codebook.md)
+A variable description for the influenza data obtained from the RKI can be found [here](data/RKI/Documentation/RKI_codebook.md). 
+A variable description for the area and population data obtained from statistisches Landeswamt can be found [here](/data/Stat_Landesamt_BW/Documentation/Stat_Landesamt_BW_codebook.md). 
+The variables of the raw merged dataset are described [here](/data/codebook.md).
 
 ## Installation
 * * *
