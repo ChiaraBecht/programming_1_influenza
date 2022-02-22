@@ -1,4 +1,4 @@
-# programming1 Studying influenza cases in Baden-Württemberg
+# Studying influenza cases in Baden-Württemberg
 * * *
 
 ![PIXNIO-169857-636x544](https://user-images.githubusercontent.com/94694457/155092715-61d903c5-d96f-4170-8f79-82f02a16467d.jpg) by: <a href="https://pixnio.com/de/wissenschaft/mikroskopische-aufnahmen/grippe/mitglied-taxonomische-familie-orthomyxoviridae-grippe-virus-ein-mehr-organismus">Erskine. L. Palmer, Ph.D., M. L. Martin, USCDCP</a> auf <a href="https://pixnio.com/de/">Pixnio</a>
@@ -6,12 +6,12 @@
 
 ## Description
 * * *
-This repository contains the code to run a dashboard, which retrospectively monitors the influenza cases numbers and the virus type circulation in Baden - Württemberg. 
+The code and data maintained in this repository, aim to retrospectively monitors the influenza case numbers and the virus type circulation in Baden - Württemberg by running a dashboard, allowing the user to conduct data exploration to a certain extent.
 
 ### Data
-Influenza case number data was obtained from the Robert Koch Institute using the tool SURVSTAT@RKI2.0 (https://survstat.rki.de/Content/Query/Create.aspx). The data is constantly appended, therfore the data on which this analysis was based can be found [here](/data/RKI/)
+Influenza case number data was obtained from the Robert Koch Institute using the tool SURVSTAT@RKI2.0 (https://survstat.rki.de/Content/Query/Create.aspx). The data is constantly appended, therfore the data on which this analysis was based can be found [here](/data/RKI/). 
 
-The district related data (area size, population size, etc.) was obtained from the statistische Landesamt Baden - Württemberg using their Query tool (https://www.statistik-bw.de/SRDB/?E=GS). For the same reasons as for the influenza data, the used data can be found [here](/data/Stat_Landesamt_BW/)
+The district related data (area size, population size, etc.) was obtained from the statistische Landesamt Baden - Württemberg using their Query tool (https://www.statistik-bw.de/SRDB/?E=GS). For the same reasons as for the influenza data, the used data can be found [here](/data/Stat_Landesamt_BW/). 
 
 Geographical data on district level was required to produce a geographical representation. The required geojson file was obtained form (http://opendatalab.de/projects/geojson-utilities/). The data can be found [here](/data/geodata)
 
@@ -19,8 +19,9 @@ A merged dataset was produced with additional columns, which can be found [here]
 
 
 ### Data description
-
-The different columns of the merged dataset are described [here](/data/codebook.md)
+A variable description for the influenza data obtained from the RKI can be found [here](data/RKI/Documentation/RKI_codebook.md)
+A variable description for the area and population data obtained from statistisches Landeswamt can be found [here](/data/Stat_Landesamt_BW/Documentation/Stat_Landesamt_BW_codebook.md)
+The variables of the raw merged dataset are described [here](/data/codebook.md)
 
 ## Installation
 * * *
