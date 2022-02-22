@@ -1,4 +1,4 @@
-# Genreralized variable description for the influenza datasets
+# Generalized variable description for the influenza datasets
 ***
 The variables described here are present in each of the datasets, which were obtained for one district of Baden - Württemberg. the informatio on which district is covered by 
 the dataset is stored in the file name. The header format was nested and held in German, therefore they were omitted when reading in and new meaningful names were used instead.
