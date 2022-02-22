@@ -1,7 +1,8 @@
 # programming1 Studying influenza cases in Baden-Württemberg
 * * *
 
-![image](https://user-images.githubusercontent.com/94694457/155014641-5d1252b3-8138-4c48-aa14-e7c923d8cb16.png)
+![PIXNIO-169857-636x544](https://user-images.githubusercontent.com/94694457/155092715-61d903c5-d96f-4170-8f79-82f02a16467d.jpg) by: <a href="https://pixnio.com/de/wissenschaft/mikroskopische-aufnahmen/grippe/mitglied-taxonomische-familie-orthomyxoviridae-grippe-virus-ein-mehr-organismus">Erskine. L. Palmer, Ph.D., M. L. Martin, USCDCP</a> auf <a href="https://pixnio.com/de/">Pixnio</a>
+
 
 ## Description
 * * *
