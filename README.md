@@ -82,6 +82,8 @@ To open the dashboard run the [Final_assignment_Data_Analysis.ipynb](analysis/Fi
 | [pathlib](https://pathlib.readthedocs.io/en/pep428/) | `1.0.1`  |
 | [os](https://docs.python.org/3/library/os.html)      | `3.10.2` |
 | [re](https://docs.python.org/3/library/re.html)      | `3.10.2` |
+| [yaml](https://pyyaml.org/)                          | `5.4.1`  |
+| [pathlib](https://pathlib.readthedocs.io/en/pep428/) | `1.0.1`  |
 | [param](http://param.holoviz.org/)                   | `1.12.0` |
 
 
